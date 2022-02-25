@@ -1,0 +1,4 @@
+insert into users (user_firstname,user_lastname,user_sortname,user_passport_seria,user_passport_berilgan,user_inn,user_tell,user_email,user_password,user_cod_id,user_visa_number,user_visa_sroc,user_visa_three_num,user_ref) values 
+('Falonchi','Falonchiyev','Falonchi og''li','AA0122334','Toshkent shahar',123456789,'777 77 77','a@gmail.com','wmrbgqorghqbrhbqgr',1234567,null,null,null,null);
+insert into users (user_firstname,user_lastname,user_sortname,user_passport_seria,user_passport_berilgan,user_inn,user_tell,user_email,user_password,user_cod_id,user_visa_number,user_visa_sroc,user_visa_three_num,user_ref) values 
+('Falonchi','Falonchiyev','Falonchi og''li','AA0122334','Toshkent shahar',123456789,'777 77 77','r@gmail.com','abc123@@',1234567,null,null,null,null);
